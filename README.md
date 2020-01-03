@@ -1,2 +1,2 @@
 # Graficos
-Gráficos testados (usando Matplotlib)
+Gráficos testados (usando Matplotlib) e boxplot
